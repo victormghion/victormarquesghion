@@ -2,11 +2,13 @@
 
 **`QA Analyst | QA Automation Engineer`**
 
-Me chamo Victor Marques Ghion e atuo como **Analista de Testes (QA) com foco em automação**. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e possuo experiência na criação e execução de testes automatizados, garantindo a qualidade e confiabilidade de aplicações.
+Atuo como **Analista de Testes (QA) com foco em automação**, garantindo a qualidade, confiabilidade e performance de aplicações através de testes bem estruturados e pipelines de integração contínua.
 
-Tenho foco em **automação de testes utilizando Robot Framework, Python e JavaScript**, além de experiência com testes de API, testes funcionais e integração contínua (CI/CD). Também utilizo ferramentas como Postman, JMeter e Jenkins para validação de performance, integração e qualidade contínua.
+Tenho experiência na criação e manutenção de **testes automatizados utilizando Robot Framework, Python e JavaScript**, além de atuação com testes de API, testes funcionais, integração e testes de performance.
 
-Busco sempre evoluir minhas habilidades e contribuir com times ágeis, garantindo entregas mais seguras, rápidas e eficientes.
+Trabalho com ferramentas essenciais do ecossistema de QA como **Selenium, Postman, JMeter e Jenkins**, aplicando boas práticas de qualidade em ambientes ágeis e pipelines de **CI/CD**. Também possuo conhecimento em **AWS** e validação de dados utilizando **SQL**, garantindo a consistência das aplicações ponta a ponta.
+
+Meu objetivo é contribuir para entregas mais seguras, eficientes e com alto padrão de qualidade.
 
 ---
 
@@ -18,8 +20,9 @@ Busco sempre evoluir minhas habilidades e contribuir com times ágeis, garantind
     title="Robot Framework" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/robotframework/robotframework-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/robotframework.svg" 
 />
+
 <img 
     align="left" 
     alt="Python" 
@@ -28,6 +31,7 @@ Busco sempre evoluir minhas habilidades e contribuir com times ágeis, garantind
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 />
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -36,6 +40,16 @@ Busco sempre evoluir minhas habilidades e contribuir com times ágeis, garantind
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Selenium" 
+    title="Selenium"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="Postman" 
@@ -44,14 +58,7 @@ Busco sempre evoluir minhas habilidades e contribuir com times ágeis, garantind
     style="padding-right: 10px;" 
     src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
 />
-<img 
-    align="left" 
-    alt="Jenkins" 
-    title="Jenkins"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="JMeter" 
@@ -60,6 +67,34 @@ Busco sempre evoluir minhas habilidades e contribuir com times ágeis, garantind
     style="padding-right: 10px;" 
     src="https://jmeter.apache.org/images/jmeter_square.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Jenkins" 
+    title="Jenkins"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="AWS" 
+    title="AWS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="Git" 
@@ -82,14 +117,14 @@ Busco sempre evoluir minhas habilidades e contribuir com times ágeis, garantind
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=victormghion&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=victormghion&show_icons=true&theme=tokyonight&cache_seconds=1800" 
   />
 
 <img 
       align="left" 
       alt="Top Langs" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormghion&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormghion&theme=tokyonight&layout=compact&cache_seconds=1800" 
   />
 
 </p>
