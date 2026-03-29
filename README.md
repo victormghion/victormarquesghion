@@ -109,32 +109,6 @@ Meu objetivo é contribuir para entregas mais seguras, eficientes e com alto pad
 
 ---
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=victormghion&show_icons=true&theme=tokyonight&cache_seconds=1800" 
-  />
-
-<img 
-      align="left" 
-      alt="Top Langs" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormghion&theme=tokyonight&layout=compact&cache_seconds=1800" 
-  />
-
-</p>
-
-<br/>
-<br/>
-<br/>
-
----
-
 ### 🌐 Contato
 
 <div> 
