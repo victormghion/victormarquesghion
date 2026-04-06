@@ -1,6 +1,6 @@
 # 👨‍💻 Victor Marques Ghion
 
-**`QA Analyst | QA Automation Engineer`**
+ QA Automation Engineer
 
 Atuo como **Analista de Testes (QA) com foco em automação**, garantindo a qualidade, confiabilidade e performance de aplicações através de testes bem estruturados e pipelines de integração contínua.
 
